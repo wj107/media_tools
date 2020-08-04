@@ -1,0 +1,3 @@
+#!/bin/bash
+
+vimdiff <(medialog $1) <(medialog $2)

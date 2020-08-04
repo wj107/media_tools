@@ -1,0 +1,25 @@
+
+
+
+Forgot how to write in markdown!!! (learn it...)
+
+
+
+summary of scripts:
+
+esd:  ejects sd card, based on mountpoint.  (would that ever change?)
+ebackup:  ejects backup hd, based on mountpoint  (would that ever change??  man umount!  fstab!!!)
+sandbox: trial script.  mess around!!
+digg:  shortcut to edit the sandbox.  digg -> sandbox.... get it??
+femv: feh, move selected photos to desktop folder "feh" for sorting
+
+
+
+
+
+goals:
+
+--combine esd/ebackup into one script w/arguments
+--preview command, given $number, will preview IMG_$number or MVI_$number using feh or mpv
+--backup sd card photos command
+--EXIF data!  interface command to input data

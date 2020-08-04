@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exiftool -T -datetimeoriginal -filename -filesize $1 | sort
